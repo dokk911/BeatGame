@@ -1,0 +1,10 @@
+E:\C#\BeatGame\BeatGame\bin\Debug\BeatGame.exe.config
+E:\C#\BeatGame\BeatGame\bin\Debug\BeatGame.exe
+E:\C#\BeatGame\BeatGame\bin\Debug\BeatGame.pdb
+E:\C#\BeatGame\BeatGame\obj\Debug\BeatGame.csprojAssemblyReference.cache
+E:\C#\BeatGame\BeatGame\obj\Debug\BeatGame.Form1.resources
+E:\C#\BeatGame\BeatGame\obj\Debug\BeatGame.Properties.Resources.resources
+E:\C#\BeatGame\BeatGame\obj\Debug\BeatGame.csproj.GenerateResource.cache
+E:\C#\BeatGame\BeatGame\obj\Debug\BeatGame.csproj.CoreCompileInputs.cache
+E:\C#\BeatGame\BeatGame\obj\Debug\BeatGame.exe
+E:\C#\BeatGame\BeatGame\obj\Debug\BeatGame.pdb
